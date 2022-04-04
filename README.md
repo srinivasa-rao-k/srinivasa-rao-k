@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @srinivasa-rao-k
+- 👋 Hi, I’m @srinivasa-rao-k, also known as KSR
 - 👀 I’m interested in Dev(Sec)Ops
 - 🌱 I’m currently learning All_Things_DevOps
-- 💞️ I’m looking to collaborate on CI_CD
+- 💞️ I’m looking to collaborate on any CI_CD related stuff
 - 📫 How to reach me ksr@globallyunique.in
 
 <!---
